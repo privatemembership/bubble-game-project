@@ -1,0 +1,20 @@
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\bin\Debug\BubbleBreakerGame.exe.config
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\bin\Debug\BubbleBreakerGame.exe
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\bin\Debug\BubbleBreakerGame.pdb
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\obj\Debug\BubbleBreakerGame.csprojResolveAssemblyReference.cache
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\obj\Debug\BubbleBreakerGame.frmBubbleBreaker.resources
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\obj\Debug\BubbleBreakerGame.Properties.Resources.resources
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\obj\Debug\BubbleBreakerGame.csproj.GenerateResource.cache
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\obj\Debug\BubbleBreakerGame.csproj.CoreCompileInputs.cache
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\obj\Debug\BubbleBreakerGame.exe
+c:\users\windows\source\repos\BubbleBreakerGame\BubbleBreakerGame\obj\Debug\BubbleBreakerGame.pdb
+C:\Users\Cristi\Desktop\Proiect c#\bin\Debug\BubbleBreakerGame.exe.config
+C:\Users\Cristi\Desktop\Proiect c#\bin\Debug\BubbleBreakerGame.exe
+C:\Users\Cristi\Desktop\Proiect c#\bin\Debug\BubbleBreakerGame.pdb
+C:\Users\Cristi\Desktop\Proiect c#\obj\Debug\BubbleBreakerGame.csprojAssemblyReference.cache
+C:\Users\Cristi\Desktop\Proiect c#\obj\Debug\BubbleBreakerGame.frmBubbleBreaker.resources
+C:\Users\Cristi\Desktop\Proiect c#\obj\Debug\BubbleBreakerGame.Properties.Resources.resources
+C:\Users\Cristi\Desktop\Proiect c#\obj\Debug\BubbleBreakerGame.csproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\Proiect c#\obj\Debug\BubbleBreakerGame.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\Proiect c#\obj\Debug\BubbleBreakerGame.exe
+C:\Users\Cristi\Desktop\Proiect c#\obj\Debug\BubbleBreakerGame.pdb
